@@ -1,5 +1,5 @@
 # camera-appmoviles
-# Esta aplicación esta basada en el usio de herramientas con Ionic-React-Capacitor 
+# Esta aplicación esta basada en el uso de herramientas con Ionic-React-Capacitor 
 se usa capacitor para poder acceder a los diferentes recursos del teléfono, en este caso la camara 
 en la cual a travez de los comandos respectivos emulamos en nuesatro dispositivo movil con la ayuda de android 
 # pantalla principal de la aplicación
