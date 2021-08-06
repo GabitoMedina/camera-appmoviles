@@ -1,0 +1,7 @@
+{
+  "name": "appmoviles-camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
